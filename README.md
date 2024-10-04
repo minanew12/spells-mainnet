@@ -4,14 +4,6 @@
 Staging repo for MakerDAO executive spells.
 
 ## Instructions
-
-### Getting Started
-
-```bash
-$ git clone git@github.com:makerdao/spells-mainnet.git
-$ dapp update
-```
-
 ### Build
 
 ```bash
